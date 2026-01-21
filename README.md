@@ -173,7 +173,7 @@ It is well-suited for **Data Analyst / Business Analyst fresher roles**.
 
 ---
 
-## 📌 Author
+##  Author
 
 **Pravin Kamble**
 
